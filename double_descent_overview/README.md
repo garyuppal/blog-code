@@ -24,15 +24,17 @@ cd blog-code/double_descent_overview
 
 #### 2. (Optional) Create a virtual environment
 ```bash
-python -m venv venv
-source venv/bin/activate  # on Linux/Mac
-venv\Scripts\activate     # on Windows
+python -m venv double-descent
+source double-descent/bin/activate  # on Linux/Mac
+double-descent\Scripts\activate     # on Windows
 ```
 
 #### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
+pip install jupyter ipykernel
 ```
+
 
 #### 4. Launch the notebook
 ```bash
