@@ -46,7 +46,8 @@ You can also open it in VS Code, JupyterLab, or another compatible environment.
 ### Option 2: Run in Google Colab
 Don't want to set anything up? You can run the notebook in the cloud via Google Colab with a single click:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/garyuppal/blog-code/blob/main/double_descent_overview/example.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/garyuppal/blog-code/blob/main/double_descent_overview/example.ipynb?fresh=true)
 
 Colab will open the notebook and let you run it interactively without installing anything.
 
